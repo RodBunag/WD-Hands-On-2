@@ -57,7 +57,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+Pokjemon is a dedicated platform for enthusiasts who are passionate about the world of heroes and collectible cards. Our mission is to provide a comprehensive and engaging experience for fans, collectors, and players alike.
 
 Guiding Question:
 - What is the project
@@ -68,9 +68,10 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+-Hero Showcase: Dive into detailed profiles of your favorite heroes. Learn about their backstories, abilities, and unique traits that make them stand out in the world of Pokjemon.
+-Card Collection: Explore an extensive library of collectible cards. Each card is presented with high-quality images, detailed descriptions, and stats to help you understand their value and potential in gameplay.
+-Community Engagement: Connect with other Pokjemon enthusiasts through our forums and social media channels. Share your collections, discuss strategies, and stay updated with the latest news and events.
+-Exclusive Content: Access exclusive content, including behind-the-scenes insights, special edition cards, and limited-time events that you won’t find anywhere else.
 
 ### Technology
 <!-- TODO: List of Technology Used -->
